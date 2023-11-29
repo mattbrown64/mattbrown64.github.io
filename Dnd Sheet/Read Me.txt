@@ -1,0 +1,19 @@
+***DnD Character Sheet***
+This program is intended to be a character sheet for Dungeons and Dragons 5e.
+
+Some useful tips
+- The box below the hitpoints is a hp modifier per level.
+- Any white square box can be typed in
+- When Saving, your Character will be saved in json format, be sure to save often.
+- Spell slots will apear as you level up
+- When buiding your character, press "select class" after entering your stats
+- double click proficency for Expertise
+
+Known bugs:
+-When loading a character, Hp will be shown as maximum
+	- To fix, damage with 0 (or damage and heal) this will remind the program to Display the right value.
+
+Areas of future update:
+-Spell tracker
+-Character Notes Tab
+-Speed and Inititive box's
